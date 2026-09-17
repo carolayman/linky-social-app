@@ -39,7 +39,7 @@ let router = createBrowserRouter([
       { path: '*', element: <NotFound /> },
     ],
   },
-],{ basename:'/linky-social-app'});
+]);
 
 function App() {
 
